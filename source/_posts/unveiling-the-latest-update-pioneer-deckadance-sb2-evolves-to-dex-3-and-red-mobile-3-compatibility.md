@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest Update: Pioneer Deckadance SB2 Evolves to DEX 3 & Red Mobile 3 Compatibility!"
-date: 2025-02-12T07:39:31.472Z
-updated: 2025-02-13T03:15:49.908Z
+date: 2025-03-02T00:53:03.166Z
+updated: 2025-03-03T20:06:35.547Z
 tags:
   - product
 categories:
@@ -30,15 +30,7 @@ What we find notably impressive is **the robust feature-set included with the DD
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pioneer DDJ-SB2 Key Features
 
@@ -61,10 +53,6 @@ The DDJ is USB powered, so you can simply connect the controller to your compute
 
 **(mapping guide coming soon!)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### MAIN TECHNICAL SPECIFICATIONS
 
 | Input ports                     | Mic x 1 (¼-inch TS jack x 1)                                                                  |
@@ -76,10 +64,6 @@ The DDJ is USB powered, so you can simply connect the controller to your compute
 | S/N ratio                       | 90 dB (PC)                                                                                    |
 | Maximum dimensions (W x D x H)  | 487 x 58.5 x 271.2 mm                                                                         |
 | Unit weight                     | 2.1 kg                                                                                        |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -100,24 +84,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/pioneerDDJ-SB2-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-speaker-breakdown-latest-models/"><u>[New] 2024 Approved Speaker Breakdown Latest Models</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-preserve-your-gameplay-for-future-replays/"><u>[New] In 2024, How to Preserve Your Gameplay for Future Replays</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-fast-photo-journey-crafting-quick-dynamic-google-collages/"><u>[Updated] The Fast Photo Journey Crafting Quick, Dynamic Google Collages</u></a></li>
-<li><a href="https://discover-able.techidaily.com/movavijpg/"><u>「Movaviで簡単JPGファイルの画像変換 - 完全無料」</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-gopro-vlogging-101-techniques-for-a-polished-look/"><u>2024 Approved GoPro Vlogging 101 Techniques for a Polished Look</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726223197062-aiffogg-movavi/"><u>AIFF/OGG 파일을 원할 수 있는 웹 가용성 최고의 무료 변환 도구 - Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/conversion-sin-coste-de-imagenes-cr2-a-jpg-online-con-esizer/"><u>Conversión Sin Coste De Imágenes CR2 a JPG Online Con eSizer</u></a></li>
-<li><a href="https://discover-able.techidaily.com/descargar-la-herramienta-gratuita-para-convertir-archivos-de-ogg-a-mov-guia-completa-con-movavi/"><u>Descargar La Herramienta Gratuita Para Convertir Archivos De Ogg a Mov: Guía Completa Con Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/discover-exceptional-free-mac-video-editors-elevate-your-editing-skills-instantly/"><u>Discover Exceptional Free Mac Video Editors - Elevate Your Editing Skills Instantly</u></a></li>
-<li><a href="https://discover-able.techidaily.com/free-online-audio-converter-change-your-flac-files-to-aac-with-movavi/"><u>Free Online Audio Converter - Change Your FLAC Files to AAC with Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/guia-paso-a-paso-como-hacer-que-tu-video-sean-perfectamente-estable-con-movavi/"><u>Guía Paso a Paso: Cómo Hacer Que Tu Video Sean Perfectamente Estable Con Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6s without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy S23+</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-making-everyday-moments-memorable-on-youtube/"><u>In 2024, Making Everyday Moments Memorable on YouTube</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726225717745-movavitsmp4/"><u>Movaviの無料ツールを使ってTSファイルをMP4にシームレスに変換する方法</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-through-voice-messages-top-visual-voicemail-app-picks/"><u>Navigating Through Voice Messages: Top Visual Voicemail App Picks</u></a></li>
-<li><a href="https://discover-able.techidaily.com/passos-faceis-para-salvar-sua-conferencia-do-skype-no-movavi-diretrizes-de-2024/"><u>Passos Fáceis Para Salvar Sua Conferência Do Skype No Movavi - Diretrizes De 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-communication-how-to-utilize-chatgpts-translation-features/"><u>The Future of Communication: How to Utilize ChatGPT’s Translation Features</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/verifying-system-compliance-with-windows-11-essentials/"><u>Verifying System Compliance with Windows 11 Essentials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cost-effective-strategies-to-combine-videos-with-text-for-2024/"><u>[Updated] Cost-Effective Strategies to Combine Videos with Text for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-masterpiece-in-motion-capture-sonys-x1000-action-gear/"><u>[Updated] In 2024, Masterpiece in Motion Capture Sony's X1000 Action Gear</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dialogue-dive-plunge-into-global-conversations-virtually/"><u>Dialogue Dive: Plunge Into Global Conversations Virtually</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-fix-the-hresult-d-eaccess-violation-error-code-0xc0000185-on-windows-11/"><u>How to Fix the HRESULT: D E_ACCESS Violation (Error Code 0xC0000185) on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y78t-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y78t Phone FRP Lock</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-revolutionizing-art-into-nfts-top-7-tools-explored/"><u>In 2024, Revolutionizing Art Into NFTs - Top 7 Tools Explored</u></a></li>
+<li><a href="https://discover-able.techidaily.com/incluir-nuevas-carpetas-en-el-historial-de-archivos-con-windows-noveveza-tutorial-completo/"><u>Incluir Nuevas Carpetas en El Historial De Archivos Con Windows Noveveza: Tutorial Completo</u></a></li>
+<li><a href="https://discover-able.techidaily.com/innovativo-e-smart-industry-solutions/"><u>Innovativo E Smart Industry Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/precision-play-5-proven-techniques-for-zoomed-gameplay-for-2024/"><u>Precision Play 5 Proven Techniques for Zoomed Gameplay for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-mixing-sounds-with-after-effects/"><u>The Ultimate Guide to Mixing Sounds with After Effects</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-3-no-cost-strategies-to-secure-your-pc-files-using-microsoft-onedrive-on-windows/"><u>Top 3 No-Cost Strategies to Secure Your PC Files Using Microsoft OneDrive on Windows</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transfer-whatsapp-kontakte-von-android-auf-iphone-13-effiziente-methoden/"><u>Transfer WhatsApp Kontakte Von Android Auf iPhone 13 – Effiziente Methoden</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transforming-your-tech-retreat-effortless-steps-for-fitting-a-new-hdd-on-windows-11-systems/"><u>Transforming Your Tech Retreat: Effortless Steps for Fitting a New HDD on Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-essential-reference-to-mastering-pokemon-mobile-titles/"><u>Your Essential Reference to Mastering Pokémon Mobile Titles</u></a></li>
 </ul></div>
 

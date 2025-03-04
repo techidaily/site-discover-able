@@ -1,7 +1,7 @@
 ---
 title: Essential Advice on Configuring Your DJ Equipment - A Focus on Controller Settings with PCDJ Software
-date: 2025-02-11T08:53:14.144Z
-updated: 2025-02-13T02:23:40.362Z
+date: 2025-03-01T03:02:41.030Z
+updated: 2025-03-04T05:20:29.522Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ However, there are 2 general deck selections under the General Tab in options yo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DJ Software Tips: DEX 3 General Settings For DJ Controllers
 
 * **Un-check “RESET DECK ON LOAD”:** By disabling this, the EQ, Volume and other deck controls will stay in the position of the subsequent knobs/sliders on your DJ controller. If you do not un-check this option, every time you load a track the EQ and Volume Sliders will return to neutral in DEX 3 or RED Mobile 3 – and you’d have to move the EQ knobs and faders on the DJ controller to “link back up” to the software. Not something you’d want to do.
@@ -40,14 +36,6 @@ However, there are 2 general deck selections under the General Tab in options yo
 **HERE’S HOW YOUR DEX 3 OR RED MOBILE 3 GENERAL SETTINGS SHOULD LOOK WHEN USING WITH DJ CONTROLLERS**
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1 "settings-for-dj-controllers")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -68,22 +56,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/generaldjcontrollersetting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-comprehensive-review-of-screenflows-impact-on-mac-professionals/"><u>[New] 2024 Approved A Comprehensive Review of ScreenFlow's Impact on Mac Professionals</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-master-the-skill-of-trimming-youtube-videos-for-perfect-bites/"><u>[Updated] Master the Skill of Trimming YouTube Videos for Perfect Bites</u></a></li>
-<li><a href="https://discover-able.techidaily.com/m4a-to-webm-movavi/"><u>完全無料で簡単M4A to WEBMコンバート - Movaviの優れたサービス</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726222196392-asfmp4-movavi/"><u>網上無需金錢，讓ASF視頻轉化成MP4 - 使用Movavi即時轉檔</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mp4-to-aac-movavi/"><u>在線上免費改變音頻格式 MP4 to AAC - Movavi 電子化解答套件</u></a></li>
-<li><a href="https://discover-able.techidaily.com/convierte-tus-archivos-swf-a-imagenes-animadas-sin-costo-alguno-uso-libre-y-facil-del-convertidor-en-linea-para-archivos-gratis/"><u>Convierte Tus Archivos SWF a Imágenes Animadas Sin Costo Alguno: Uso Libre Y Fácil Del Convertidor en Línea Para Archivos Gratis</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-olympic-freeze-frame-figure-skating-best-of-2022/"><u>In 2024, Olympic Freeze-Frame Figure Skating Best of 2022</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-total-exploration-of-vsco-photography-functions/"><u>In 2024, Total Exploration of VSCO Photography Functions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/los-top-10-mejor-softwares-de-conversion-de-documentos-a-pdf-libres-y-sin-limites-para-mac-ano-2024/"><u>Los Top 10 Mejor Softwares De Conversión De Documentos a PDF Libres Y Sin Limites Para MAC - Año 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mettiti-al-passo-con-la-tecnologia-convertire-i-file-flv-in-swf-utilizzando-lutilita-di-conversione-gratuitamente-on-line-di-movavi/"><u>Mettiti Al Passo Con La Tecnologia: Convertire I File FLV in SWF Utilizzando L'utilità Di Conversione Gratuitamente On-Line Di Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/movavi-htkh-mtsvvt-lrkht-vydy-hrmh-lkhvh-m-yth-fvl/"><u>Movavi - חטאָך מצובת לערכת וידבֿי: הרשׁמה לכוח עם שיטה פועל</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-activation-for-your-ps5-console/"><u>Restoring Activation for Your PS5 Console</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transcodificador-en-linea-gratuito-para-convertir-archivos-flac-a-mp3-rapidamente-y-sin-complicaciones-movavi/"><u>Transcodificador en Línea Gratuito Para Convertir Archivos FLAC a MP3 Rápidamente Y Sin Complicaciones - Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-disabled-lsa-security-signal/"><u>Troubleshooting Windows' Disabled LSA Security Signal</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-psd-transparency-tricks/"><u>Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ideal-accessories-for-optimal-gopro-photography-for-2024/"><u>[New] Ideal Accessories for Optimal GoPro Photography for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/6-effective-fixes-for-windows-11-update-failures-a-step-by-step-guide/"><u>6 Effective Fixes for Windows 11 Update Failures: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dimensions-unleashed-a-comparative-guide-to-metaverse-and-omniverse/"><u>Dimensions Unleashed A Comparative Guide to Metaverse and Omniverse</u></a></li>
+<li><a href="https://discover-able.techidaily.com/erzeugen-sie-ihr-eigenes-iphone-sicherungsarchiv-keine-hilfe-von-mac-oder-pc-notig/"><u>Erzeugen Sie Ihr Eigenes iPhone-Sicherungsarchiv - Keine Hilfe Von Mac Oder PC Nötig!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-6s-plus-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 6s Plus After iOS Update? | Stellar</u></a></li>
+<li><a href="https://discover-able.techidaily.com/imessage-movement-made-simple-transferring-conversations-from-ipad-to-iphone-with-easy-techniques/"><u>IMessage Movement Made Simple: Transferring Conversations From iPad to iPhone with Easy Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-grids-for-greatness-photographs-next-step-up/"><u>In 2024, Grids for Greatness Photographs' Next Step Up</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-tansfuseren-naar-gif-gratis-movavi-tool-voor-ts-teckengrafieken/"><u>Online Tansfuseren Naar Gif: Gratis Movavi Tool Voor Ts Teckengrafieken</u></a></li>
+<li><a href="https://discover-able.techidaily.com/passos-faceis-para-executar-backup-de-unidade-no-windows-11-10-8-ou/"><u>Passos Fáceis Para Executar Backup De Unidade No Windows 11, 10, 8 Ou #</u></a></li>
+<li><a href="https://win-dash.techidaily.com/run-the-downloaded-installer-following-on-screen-instructions-to-complete-the-installation-process/"><u>Run the Downloaded Installer, Following On-Screen Instructions to Complete the Installation Process</u></a></li>
+<li><a href="https://discover-able.techidaily.com/sichere-daten-mit-passwortgeschutzten-verfahren-verschlusseln-in-windows-11-erkunde-diese-dreifachen-techniken/"><u>Sichere Daten Mit Passwortgeschützten Verfahren Verschlüsseln in Windows 11 - Erkunde Diese Dreifachen Techniken</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/top-7-methods-for-mirroring-your-iphone-onto-a-pc-a-comprehensive-guide-by-movavi/"><u>Top 7 Methods for Mirroring Your iPhone Onto a PC: A Comprehensive Guide by Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-strategien-gegen-schreibgeschutzter-datentrager-fehler-entschlusseln-sie-den-zugriff/"><u>Top-Strategien Gegen 'Schreibgeschützter Datenträger'-Fehler – Entschlüsseln Sie Den Zugriff</u></a></li>
 </ul></div>
 

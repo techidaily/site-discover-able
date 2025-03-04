@@ -1,7 +1,7 @@
 ---
 title: Passos Detalhados Para Configurar Um Disco Clonado Como Inicializável No Windows 11/10 - Guia De Funcionamento
-date: 2025-02-10T19:17:50.117Z
-updated: 2025-02-12T21:20:22.156Z
+date: 2025-02-27T05:11:31.620Z
+updated: 2025-03-03T18:35:58.357Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99eff2c33463bfeb19637f99d3.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -101,17 +93,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -136,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,22 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-gripping-gospels-intros-that-draw-ears/"><u>[Updated] Gripping Gospels Intros That Draw Ears</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-vlogging-hurdles-how-to-triumph-over-ten-common-obstacles/"><u>[Updated] Vlogging Hurdles How to Triumph Over Ten Common Obstacles</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/1-leveraging-abbyy-x-arsenal-ladies-revolutionary-artificial-intelligence-analysis/"><u>1. Leveraging ABBYY X Arsenal Ladies: Revolutionary Artificial Intelligence Analysis</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-zero-cost-green-screens-for-professionals/"><u>2024 Approved Zero-Cost Green Screens for Professionals</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mp4-vob/"><u>効率的な手ブレーカー使い方: MP4, VOBビデオを一度にマージするテクニック</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-fixes-for-when-your-zooms-live-stream-feature-loses-camera-support/"><u>DIY Fixes for When Your Zoom's Live Stream Feature Loses Camera Support</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insignia-fire-tv-review-featuring-alexa-and-stunning-ultra-hd-on-a-budget/"><u>Insignia Fire TV Review - Featuring Alexa and Stunning Ultra HD on a Budget</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mastering-dvd-viewing-the-best-free-windows-11-dvd-decoding-tools-explained/"><u>Mastering DVD Viewing: The Best Free Windows 11 DVD Decoding Tools Explained</u></a></li>
-<li><a href="https://discover-able.techidaily.com/pcfod-and-mp4/"><u>PC上でFOD動画を安全にダウンロード & MP4形式に変換するテクニック</u></a></li>
-<li><a href="https://discover-able.techidaily.com/proven-approaches-to-turn-your-videos-into-text-format-options-with-or-without-subtitles/"><u>Proven Approaches to Turn Your Videos Into Text Format - Options with or Without Subtitles</u></a></li>
-<li><a href="https://discover-able.techidaily.com/quick-guide-to-seamlessly-transform-mts-videos-into-avi-for-high-quality-playback/"><u>Quick Guide to Seamlessly Transform MTS Videos Into AVI for High-Quality Playback</u></a></li>
-<li><a href="https://discover-able.techidaily.com/simple-methods-how-to-get-audio-out-of-flv-videos-at-no-cost/"><u>Simple Methods: How to Get Audio Out of FLV Videos at No Cost!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/simple-steps-for-flawless-flv-to-mov-file-transformation/"><u>Simple Steps for Flawless FLV-to-MOV File Transformation</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-simple-methods-for-downloading-videos-from-linkedin/"><u>Step-by-Step Guide: Simple Methods for Downloading Videos From LinkedIn</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/iers-of-technology-youtube-gamers-showcase-for-2024/"><u>Top Tiers of Technology YouTube Gamer's Showcase for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/troubleshoot-windows-11-update-issue-with-error-code-0x8eb-top-5-strategies-to-resolve-it/"><u>Troubleshoot Windows 11 Update Issue with Error Code 0X8eb: Top 5 Strategies to Resolve It</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-seamless-merge-apple-music-and-videos-together-for-2024/"><u>[Updated] Seamless Merge Apple Music & Videos Together for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-blueprint-of-successful-video-endorsements/"><u>[Updated] The Blueprint of Successful Video Endorsements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-google-bard-showdown-an-in-depth-comparison-of-the-top-language-models/"><u>ChatGPT Vs. Google Bard Showdown: An In-Depth Comparison of the Top Language Models</u></a></li>
+<li><a href="https://discover-able.techidaily.com/gebruikersgegevens-opruimen-terug-na-een-iphone-factory-reset/"><u>Gebruikersgegevens Opruimen Terug Na Een iPhone Factory Reset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-pinpointing-your-custom-designed-music-haven-on-youtube/"><u>In 2024, Pinpointing Your Custom-Designed Music Haven on Youtube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iphone/"><u>IPhone 動画撮影中の手ブレ問題に対処する: 補正方法と無料アプリトッピング</u></a></li>
+<li><a href="https://discover-able.techidaily.com/losung-fur-nicht-erkannte-sata-festplatten-im-bios-system/"><u>Lösung Für Nicht Erkannte SATA-Festplatten Im BIOS-System</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211439105--numerology/"><u>Numerology | Free Book</u></a></li>
+<li><a href="https://discover-able.techidaily.com/protect-your-files-during-os-update-mastering-windows-7-to-windows-transformation-a-dual-method-guide/"><u>Protect Your Files During OS Update: Mastering Windows 7 to Windows # Transformation - A Dual-Method Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/samsung-datamigrazione-completa-e-inesorabilmente-arretrata-scopri-il-trattamento-definitivo/"><u>Samsung Datamigrazione Completa E Inesorabilmente Arretrata: Scopri Il Trattamento Definitivo!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/sichere-windows-11-datensicherung-durch-verschlusselung-schritt-fur-schritt-anleitung/"><u>Sichere Windows 11-Datensicherung Durch Verschlüsselung: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-vcruntime140dll-missing-error-in-microsoft-visual-cplusplus-redistributable-packages/"><u>Step-by-Step Guide: Correcting VCRUNTIME140.dll Missing Error in Microsoft Visual C++ Redistributable Packages</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-cost-effective-remobell-video-doorbells-for-your-home/"><u>Top Picks: Cost-Effective RemoBell Video Doorbells for Your Home</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-ranking-pst-backup-solutions-find-the-ideal-outlook-companion/"><u>Top-Ranking PST Backup Solutions: Find the Ideal Outlook Companion</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728471484587-windows-11/"><u>Windows 11 '書/重寫預設值'保護失靈？救回電腦的速成技術！</u></a></li>
+<li><a href="https://discover-able.techidaily.com/wortundexcel-wiederherstellung-fachkompetente-losungen-zur-wiedererlangung-nicht-gespeicherter-und-geloschter-dokumente/"><u>Wortundexcel-Wiederherstellung: Fachkompetente Lösungen Zur Wiedererlangung Nicht Gespeicherter Und Gelöschter Dokumente</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Complete System Restore with Windows 11'S Built-In WBAdmin Tool
-date: 2025-02-06T18:08:13.537Z
-updated: 2025-02-13T07:20:34.548Z
+date: 2025-02-26T19:16:06.096Z
+updated: 2025-03-03T21:40:03.715Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7381c52dc39eb2ace8244b33.jpg
@@ -52,10 +52,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1\. Recover files from ransomware with data recovery software
 
 Usually, ransomware removes the original data after the intrusion. The encrypted files it creates are not the original files, but copies. Therefore, with the help of professional data recovery software, you can easily retrieve your original files deleted by ransomware.
@@ -82,10 +78,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -101,10 +93,6 @@ The how to recover ransomware encrypted files guide is instructed as follows. Yo
 Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit **Backup and Restore (Windows 7)**.
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
@@ -126,17 +114,9 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -152,17 +132,9 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -199,10 +171,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -231,15 +199,7 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,22 +216,21 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-optimizing-your-fb-video-upload-journey-from-pc-plus-android/"><u>[Updated] 2024 Approved Optimizing Your FB Video Upload Journey From PC + Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-a-closer-look-at-youtubes-unlisted-content-category-for-2024/"><u>[Updated] A Closer Look at YouTube’s ‘Unlisted’ Content Category for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>2024 Approved The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
-<li><a href="https://discover-able.techidaily.com/become-a-member-of-the-exclusive-pcdj-community-on-facebook-join-now/"><u>Become a Member of the Exclusive PCDJ Community on Facebook – Join Now!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-guide-to-managing-applications-via-windows-control-panel-tips-from-yl-computing/"><u>Easy Guide to Managing Applications via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-a1x-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo A1x 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-a78-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo A78 5G Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/jaco-smartpro-digital-tire-inflator-review-a-compact-powerful-tire-inflator/"><u>Jaco SmartPro Digital Tire Inflator Review: A Compact, Powerful Tire Inflator</u></a></li>
-<li><a href="https://discover-able.techidaily.com/lyrx-karaoke-player-version-1601-now-updated-free-download-and-installation-guide/"><u>LYRX Karaoke Player Version 1.6.0.1 Now Updated: Free Download & Installation Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/preventing-malware-and-speed-issues-expert-advice-for-keeping-your-computer-fast-yl-software-solutions/"><u>Preventing Malware and Speed Issues: Expert Advice for Keeping Your Computer Fast - YL Software Solutions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/resolve-your-computers-hardware-issues-with-a-bios-reset-expert-advice-on-the-process-yl-software-solutions/"><u>Resolve Your Computer's Hardware Issues with a BIOS Reset: Expert Advice on the Process | YL Software Solutions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-eliminating-duplicate-windows-registry-keys-expert-advice-by-yl-computing/"><u>Step-by-Step Guide: Eliminating Duplicate Windows Registry Keys - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-modifying-text-documents-in-windows-os-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying Text Documents in Windows OS - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-editing-sportscasts-for-2024/"><u>The Ultimate Guide to Editing Sportscasts for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-reasons-behind-failing-hdds-insights-from-yl-computing-and-yl-software-solutions/"><u>Top Reasons Behind Failing HDDs: Insights From YL Computing and YL Software Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-enhanced-visual-experience-ios-and-androids-leading-sticker-app-lineup/"><u>[Updated] 2024 Approved Enhanced Visual Experience IOS & Android's Leading Sticker App Lineup</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726028800100-movm4a/"><u>簡単ガイド：MOVファイルをM4A形式に変換するための手順</u></a></li>
+<li><a href="https://discover-able.techidaily.com/57ea77yi44op44kk44oz77yj44ks5l255so44gx44gf6kej5yop5bqm5lplusd5oyb44gn44kv44oq44ki5yuv55s75lyd6ygu/"><u>線（ライン）を使用した解像度保持でクリア動画伝達</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-ios-18-support-guide-identifying-compatible-iphones-and-exclusions/"><u>Apple iOS 18 Support Guide: Identifying Compatible iPhones and Exclusions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-pinnacle-of-playthronics-best-consoles-for-gamers/"><u>Exploring the Pinnacle of Playthronics: Best Consoles for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-start-up-issues-when-shutting-down-your-pc-with-windows-11/"><u>Fixing Persistent Start-Up Issues when Shutting Down Your PC with Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-tale-weavers-hub-hall-of-fame-picks/"><u>In 2024, Tale Weavers Hub - Hall of Fame Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>In 2024, The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726028564812-mkvmp3wav/"><u>MKVファイルから明瞭な音声をMP3やWAVに最適化するガイド</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138589362-9781452547275-open-the-mind-exercise-the-soul/"><u>Open the Mind Exercise the Soul | Free Book</u></a></li>
+<li><a href="https://discover-able.techidaily.com/troubleshoot-davinci-resolve-imports-uncover-these-6-essential-fixes/"><u>Troubleshoot DaVinci Resolve Imports: Uncover These 6 Essential Fixes!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-to-flac-file-splitting-discover-the-best-software-for-converting-single-flacs-into-multiple-tracks-with-cue-support/"><u>Ultimate Guide to FLAC File Splitting: Discover the Best Software for Converting Single FLACs Into Multiple Tracks with CUE Support</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-tp-format-converter-simple-guide-on-changing-tp-files-to-popular-formats-like-mp4-wmv-and-more/"><u>Ultimate TP Format Converter: Simple Guide on Changing TP Files to Popular Formats Like MP4, WMV, and More!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/wonderfox-software-enhances-trustworthiness-via-officially-coded-certificate-integration-for-ultimate-protection/"><u>WonderFox Software Enhances Trustworthiness via Officially Coded Certificate Integration for Ultimate Protection</u></a></li>
 </ul></div>
 

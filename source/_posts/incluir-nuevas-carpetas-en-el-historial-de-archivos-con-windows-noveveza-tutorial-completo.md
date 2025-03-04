@@ -1,7 +1,7 @@
 ---
 title: "Incluir Nuevas Carpetas en El Historial De Archivos Con Windows Noveveza: Tutorial Completo"
-date: 2025-02-11T04:55:21.583Z
-updated: 2025-02-12T16:15:39.611Z
+date: 2025-02-27T07:37:52.824Z
+updated: 2025-03-04T05:55:44.494Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52db2ee85035878ab4d903ee2.jpg
@@ -38,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -53,10 +49,6 @@ Vor der dauerhaften Löschung kann der Papierkorb gelöschte Dateien und Ordner 
 Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie werden weiterhin den begrenzten Speicherplatz belegen.
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
@@ -70,17 +62,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
@@ -102,10 +86,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
 Nachdem Sie erfahren haben, wie Sie den Papierkorb vom Desktop entfernen und leeren, ist es wichtig zu wissen, wie Sie [gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen](https://tools.techidaily.com/ubackup/products/) können.
@@ -125,10 +105,6 @@ Sicherer Download
 **Schritt 1**. Installieren und starten Sie MyRecover auf Ihrem Windows-PC. Wählen Sie das Laufwerk C aus und klicken Sie auf „**Scan starten**“.
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
@@ -161,27 +137,15 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -268,14 +232,18 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-techniques-for-harmonious-crossfades-in-tracks/"><u>2024 Approved Unveiling Techniques for Harmonious Crossfades in Tracks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-magnetized-thermaltake-fans-new-120mm-and-140mm-models-feature-revolutionary-design-and-no-more-rgb/"><u>Advanced Magnetized Thermaltake Fans: New 120Mm and 140Mm Models Feature Revolutionary Design & No More RGB</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/akaso-ek7000-ultimate-4k-action-cam-at-affordable-prices/"><u>AKASO EK7000 Ultimate 4K Action Cam at Affordable Prices</u></a></li>
-<li><a href="https://discover-able.techidaily.com/breaking-into-kindle-ebooks-methods-to-circumvent-drm-for-private-enjoyment/"><u>Breaking Into Kindle eBooks: Methods to Circumvent DRM for Private Enjoyment</u></a></li>
-<li><a href="https://discover-able.techidaily.com/comparing-epub-and-mobi-determining-the-optimal-ebook-format-for-your-reader-device/"><u>Comparing EPUB and MOBI: Determining the Optimal eBook Format for Your Reader Device</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-guide-to-bypassing-kobo-drm-gain-full-control-over-your-library/"><u>Complete Guide to Bypassing Kobo DRM - Gain Full Control Over Your Library</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-guide-how-to-bypass-drm-protection-on-e-books-epub-pdf-azw-formats/"><u>Complete Guide: How to Bypass DRM Protection on E-Books (ePUB, PDF, AZW Formats)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-converting-office-docx-into-readable-pdf-files-on-windows-11/"><u>Quick Guide: Converting Office DOCX Into Readable PDF Files on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-full-potential-of-steams-game-milestones/"><u>Unleash Full Potential of Steam's Game Milestones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-captivate-viewers-with-stunning-story-bokeh/"><u>[New] 2024 Approved How to Captivate Viewers with Stunning Story Bokeh</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-boost-your-facebook-profile-select-8-apps-with-highest-like-potential-for-2024/"><u>[New] Boost Your Facebook Profile Select 8 Apps with Highest Like Potential for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-validating-your-visual-story-on-instagram-for-2024/"><u>[Updated] Validating Your Visual Story on Instagram for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-streamlined-qanda-guide-for-attractive-podcasts/"><u>2024 Approved Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversione-gratuita-da-aac-a-m4a-tramite-lutilita-web-di-movavi-ottimi-risultati-in-pochi-clic/"><u>Conversione Gratuita Da AAC a M4A Tramite L'utilità Web Di Movavi - Ottimi Risultati in Pochi Clic!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/desvendando-a-dinamica-das-aulas-invertidas-um-guia-abrangente-as-disciplinas-modernas/"><u>Desvendando a Dinâmica Das Aulas Invertidas – Um Guia Abrangente Às Disciplinas Modernas</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-radeon-rx-5700-xt-graphics-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download AMD Radeon RX 5700 XT Graphics Card Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://discover-able.techidaily.com/free-online-mp3-to-aac-audio-file-conversion-easy-with-movavis-tool/"><u>Free Online MP3 to AAC Audio File Conversion - Easy with Movavi's Tool</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-compreeve-youtube-extraction-11-tools-reviewed/"><u>In 2024, Compreeve YouTube Extraction 11 Tools Reviewed</u></a></li>
+<li><a href="https://discover-able.techidaily.com/movavi-m4bwma-mp3-ogg-flac/"><u>Movavi의 강력하고 무료 M4B/WMA 라이터를 사용하여 MP3, OGG, FLAC로 쉽게 변환 - 원클린</u></a></li>
+<li><a href="https://discover-able.techidaily.com/online-3gp-mov-file-converter-download-the-app-and-convert-without-costs/"><u>Online 3GP-MOV File Converter - Download the App and Convert Without Costs!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-beginners-guide-to-making-money-on-youtubers-for-2024/"><u>Your Beginner's Guide to Making Money on YouTubers for 2024</u></a></li>
 </ul></div>
 

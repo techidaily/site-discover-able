@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on the Pioneering Creative Design Journey of 2016: A Recap of PCDJ Achievements"
-date: 2025-02-06T20:01:19.180Z
-updated: 2025-02-12T22:16:33.578Z
+date: 2025-02-26T00:47:42.557Z
+updated: 2025-03-04T06:30:45.507Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PCDJ Highlights From 2016
 
 **DJ Software and Video Mixing Software Improvements**
@@ -39,10 +35,6 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * The new [text, image and video overlay](https://tools.techidaily.com/pcdj/products/) feature allows DJs and VJs to create stunning, multilayered overlays to display on the mixed video output. Use this feature to show your logo, or truly anything you can dream up.  
 [LEARN MORE ABOUT DEX 3 ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/11/dex3-onlaptop-controller.jpg?fit=300%2C187&ssl=1 "dex3-onlaptop-controller")](https://tools.techidaily.com/pcdj/products/)
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
 * New key detection for harmonic/key mixing. Not only sync music on beat but match key for pitch-perfect blending and mashups.
@@ -71,25 +63,13 @@ When you’re surrounded by a great group of teammates with the same vision and 
 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
 
 We found new partners at MixCity Inc, the creators of [JammText](https://tools.techidaily.com/pcdj/products/) – a truly unique, social and interactive text-and-image-to-screen platform that works brilliantly alongside DEX 3 or Karaoki. We plan to bring you even more goodies and better support for JammText throughout 2017.
 
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Happy New Year, Friends!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -110,18 +90,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-ideal-choices-the-very-best-6-video-grabber-tools-for-2024/"><u>[New] Ideal Choices The Very Best 6 Video Grabber Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-competitive-overwatch-in-minutes/"><u>[Updated] 2024 Approved Capturing Competitive Overwatch in Minutes</u></a></li>
-<li><a href="https://discover-able.techidaily.com/3-simple-methods-moving-your-iphone-footage-to-an-hp-computer/"><u>3 Simple Methods: Moving Your iPhone Footage to an HP Computer</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/chkdsk-probleme-top-8-strategien-zur-uberwindung-von-fehlern-im-schreibgeschutzten-laufwerk/"><u>CHKDSK-Probleme: Top 8 Strategien Zur Überwindung Von Fehlern Im Schreibgeschützten Laufwerk</u></a></li>
-<li><a href="https://discover-able.techidaily.com/discover-the-best-no-cost-solution-aomei-backupper-vs-wd-smartware/"><u>Discover the Best No-Cost Solution: AOMEI Backupper Vs. WD SmartWare</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-steps-to-restore-your-files-using-d-drive-data-recovery-software/"><u>Easy Steps to Restore Your Files Using D Drive Data Recovery Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-sky-high-adventures-the-gopro-karma-experience/"><u>In 2024, Sky-High Adventures The GoPro Karma Experience</u></a></li>
-<li><a href="https://discover-able.techidaily.com/kostenlose-wiederherstellung-von-daten-auf-formatiertem-ssd-speicher/"><u>Kostenlose Wiederherstellung Von Daten Auf Formatiertem SSD Speicher</u></a></li>
-<li><a href="https://android-frp.techidaily.com/motorola-moto-g24-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G24 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-mac-video-cutting-made-simple-quick-tips-for-efficient-editing-for-2024/"><u>New Mac Video Cutting Made Simple Quick Tips for Efficient Editing for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/resolving-the-song-out-of-sync-issue-across-all-your-gadgets-solution-guide-2024/"><u>Resolving the 'Song Out of Sync' Issue Across All Your Gadgets - Solution Guide 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-overcome-world-of-warcrafts-frequent-crashes-with-these-tips/"><u>Troubleshoot & Overcome World of Warcraft's Frequent Crashes with These Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premier-choices-the-5-foremost-webcams-for-live-gamers/"><u>[New] In 2024, Premier Choices The 5 Foremost Webcams for Live Gamers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-into-the-world-of-chroma-keying-youtubes-guide-to-green-screens/"><u>[New] In 2024, Step Into the World of Chroma Keying – YouTube's Guide to Green Screens</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-naming-your-channel-with-flair-and-individuality/"><u>2024 Approved Naming Your Channel with Flair and Individuality</u></a></li>
+<li><a href="https://discover-able.techidaily.com/accelerate-system-speeds-quickly-with-expert-advice-from-yl-software-solutions/"><u>Accelerate System Speeds Quickly with Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/discover-how-to-see-image-thumbnails-within-windows-ultimate-tutorial-by-yl-tech-experts/"><u>Discover How to See Image Thumbnails Within Windows - Ultimate Tutorial by YL Tech Experts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/essential-guide-verifying-your-audio-hardware-a-step-by-step-process/"><u>Essential Guide: Verifying Your Audio Hardware - A Step-by-Step Process</u></a></li>
+<li><a href="https://discover-able.techidaily.com/expert-tips-for-reducing-unwanted-sound-during-scanning-with-yl-software-solutions/"><u>Expert Tips for Reducing Unwanted Sound During Scanning with YL Software Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-converter-convert-m4v-files-to-swf-format-with-movavi/"><u>Free Online Converter: Convert M4V Files to SWF Format with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-stuck-windows-update-problems-now/"><u>Resolving Stuck Windows Update Problems Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-507-unique-and-creative-instagram-post-texts/"><u>Top 507 Unique and Creative Instagram Post Texts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/yl-computing-tips-how-to-ensure-your-graphics-card-has-the-latest-driver-version/"><u>YL Computing Tips: How to Ensure Your Graphics Card Has the Latest Driver Version</u></a></li>
 </ul></div>
 

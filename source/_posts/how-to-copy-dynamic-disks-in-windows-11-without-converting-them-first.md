@@ -1,7 +1,7 @@
 ---
 title: How to Copy Dynamic Disks in Windows 11 Without Converting Them First
-date: 2025-02-10T05:57:13.674Z
-updated: 2025-02-13T04:15:36.771Z
+date: 2025-03-02T03:29:09.787Z
+updated: 2025-03-04T02:25:23.307Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ecbde85afd3575d8478b3848e.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -66,25 +62,13 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -101,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -161,10 +141,6 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
@@ -180,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -210,10 +182,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -249,10 +217,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -268,16 +232,19 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nlock-the-full-potential-of-your-video-with-studio-editor/"><u>[New] Unlock the Full Potential of Your Video with Studio Editor</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-comprehensive-study-gopro-slr4-sliver-feature-review/"><u>[Updated] In 2024, Comprehensive Study GoPro SLR4 Sliver Feature Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-choice-10-best-webcams-for-win-11-for-2024/"><u>[Updated] Ultimate Choice 10 Best Webcams for Win 11 for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-xs-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone XS Max to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ced-filmmaking-techniques-selecting-top-notch-lenses-for-2024/"><u>Advanced Filmmaking Techniques Selecting Top-Notch Lenses for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/google-tv-chromecast-evaluation-a-new-contender-against-amazons-firetv/"><u>Google TV Chromecast Evaluation: A New Contender Against Amazon's FireTV</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-bypassing-drm-protection-in-adobe-digital-editions-for-pdf-and-epub-formats/"><u>Step-by-Step Guide: Bypassing DRM Protection in Adobe Digital Editions for PDF & EPUB Formats</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-transforming-protein-data-bank-files-into-printable-pdf-format/"><u>Step-by-Step Guide: Transforming Protein Data Bank Files Into Printable PDF Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-transforming-your-kfx-files-into-epub-format/"><u>Step-by-Step Guide: Transforming Your KFX Files Into EPUB Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-2-substitutes-for-the-dedrm-calibre-ebook-drm-removal-tool/"><u>Top 2 Substitutes for the DeDRM Calibre eBook DRM Removal Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-all-about-lightroom-a-comprehensive-android-study/"><u>[New] All About Lightroom A Comprehensive Android Study</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levating-success-channel-ideas-to-spark-momentum-for-2024/"><u>[New] Elevating Success Channel Ideas to Spark Momentum for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/bildbearbeitungsprogramm-von-movavi-perfekte-fotos-entwerfen-programma-voor-fotos-spiegelen/"><u>Bildbearbeitungsprogramm Von Movavi: Perfekte Fotos Entwerfen | Programma Voor Foto's Spiegelen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-airpods-issue-how-to-restore-audio-on-windows-11-or-10/"><u>Fixing the Silent AirPods Issue: How to Restore Audio on Windows 11 or 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y55s-5g-2023-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y55s 5G (2023) is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unveiling-the-art-of-hdr-photography-on-iphone/"><u>In 2024, Unveiling the Art of HDR Photography on iPhone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/los-top-10-mejores-aplicaciones-de-captura-de-pantalla-para-portatil-comentarios-y-respuestas-del-cliente/"><u>Los Top 10 Mejores Aplicaciones De Captura De Pantalla Para Portátil - Comentarios Y Respuestas Del Cliente</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-network-hurdles-a-users-manual-to-fixing-surface-pro-wi-fi-problems/"><u>Overcoming Network Hurdles: A User's Manual to Fixing Surface Pro Wi-Fi Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revamping-images-with-advanced-features/"><u>Revamping Images with Advanced Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamerease-screen-recording-on-win11-for-2024/"><u>StreamerEase Screen Recording on Win11 for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-5-methods-for-transforming-videos-into-mp4-format-on-your-mac/"><u>Top 5 Methods for Transforming Videos Into MP4 Format on Your Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/twitch-basics-unraveling-common-mysteries-for-beginner-viewers/"><u>Twitch Basics: Unraveling Common Mysteries for Beginner Viewers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726220729957-windowsmovavi/"><u>Windows版本：Movavi软件激活指南</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mkvogg-movavi/"><u>オンラインで無料：MKVとOGGフォーマット間の直接変換 - Movavi</u></a></li>
 </ul></div>
 

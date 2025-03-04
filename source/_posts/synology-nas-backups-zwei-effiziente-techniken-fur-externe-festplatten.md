@@ -1,7 +1,7 @@
 ---
 title: "Synology NAS-Backups: Zwei Effiziente Techniken Für Externe Festplatten"
-date: 2025-02-09T08:07:00.136Z
-updated: 2025-02-12T21:56:27.178Z
+date: 2025-02-28T02:14:56.538Z
+updated: 2025-03-04T02:31:39.587Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac4314ef47bdf65ab2174d555e1.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -48,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -89,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -101,17 +89,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -124,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -198,15 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-incorporating-melodies-into-youtube-repertoire/"><u>[Updated] Incorporating Melodies Into Youtube Repertoire</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-design-ideas-top-6-mc-village-residences/"><u>2024 Approved Design Ideas Top 6 MC Village Residences</u></a></li>
-<li><a href="https://discover-able.techidaily.com/boost-your-recordings-sound-a-guide-to-enhancing-audio-clarity-without-cost/"><u>Boost Your Recording's Sound: A Guide to Enhancing Audio Clarity Without Cost</u></a></li>
-<li><a href="https://discover-able.techidaily.com/converting-mp4-files-to-mov-format-using-vlc-a-step-by-step-guide/"><u>Converting MP4 Files to MOV Format Using VLC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-methods-for-converting-dvd-media-to-save-on-an-ssd/"><u>Easy Methods for Converting DVD Media to Save on an SSD</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-m54-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy M54 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-notable-top-5-superlight-action-camera-picks/"><u>In 2024, Notable Top 5 Superlight Action Camera Picks</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-depth-corsair-i500-mini-itx-desktop-evaluation-compact-powerhouse-unveiled/"><u>In-Depth Corsair I500 Mini ITX Desktop Evaluation - Compact Powerhouse Unveiled</u></a></li>
-<li><a href="https://discover-able.techidaily.com/iphoneflv/"><u>IPhone対応のFLV形式動画をスムーズに見るためのガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-au-addon-for-iptv-streaming-in-kodi-with-over-30-australian-free-tv-channel-options/"><u>Step-by-Step Guide: Setting Up the AU Addon for IPTV Streaming in Kodi with Over 30 Australian Free TV Channel Options</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-epic-retrospect-swiftly-undoing-iphone-videos/"><u>[New] In 2024, Epic Retrospect Swiftly Undoing iPhone Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-reveal-the-best-7-video-streaming-apps-to-go-live-on-youtube-iphoneandroid/"><u>[New] In 2024, Reveal the Best 7 Video Streaming Apps to Go Live on YouTube (iPhone/Android)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-stepwise-guide-to-optimal-zoom-audio-recording/"><u>[New] In 2024, Stepwise Guide to Optimal Zoom Audio Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-your-projects-proportions-with-aspect-ratio/"><u>2024 Approved Perfecting Your Project's Proportions with Aspect Ratio</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comment-repliquer-un-lecteur-de-disques-logique-windows-server-2012-r2-guide-complet/"><u>Comment Répliquer Un Lecteur De Disques Logique Windows Server 2012 R2 : Guide Complet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-eliminating-intermittent-mouse-disconnecting-woes/"><u>Comprehensive Fixes: Eliminating Intermittent Mouse Disconnecting Woes</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728475133582-hdd/"><u>HDD 破損した部分からデータを回復する手順と補足ガイド</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-complexities-of-spotifys-ad-ecosystem/"><u>Navigating the Complexities of Spotify's Ad Ecosystem</u></a></li>
+<li><a href="https://discover-able.techidaily.com/schritt-fur-schritt-anleitung-fur-den-ssd-upgrade-der-hp-envy-x360-ohne-datenverlust/"><u>Schritt-Für-Schritt-Anleitung Für Den SSD-Upgrade Der HP Envy X360 Ohne Datenverlust</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-mobile-connectivity-for-globe-trotters/"><u>Seamless Mobile Connectivity for Globe-Trotters</u></a></li>
+<li><a href="https://discover-able.techidaily.com/simple-steps-securely-preserve-your-microsoft-outlook-contacts-with-a-reliable-backup-strategy/"><u>Simple Steps: Securely Preserve Your Microsoft Outlook Contacts with a Reliable Backup Strategy</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ssd-vs-hdd-wie-wechsle-ich-meine-festplatte-auf-das-ultimative-advent-laptop-ein-leitfaden/"><u>SSD vs HDD: Wie Wechsle Ich Meine Festplatte Auf Das Ultimative Advent-Laptop - Ein Leitfaden</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-immediate-repeated-amd-software-errors/"><u>Stop Immediate Repeated AMD Software Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/taming-unrealistic-ai-generations-through-proper-phrasing/"><u>Taming Unrealistic AI Generations Through Proper Phrasing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-4-alternative-file-sharing-solutions-to-airdrop-for-pc-users-on-windows-1087/"><u>Top 4 Alternative File Sharing Solutions to AirDrop for PC Users on Windows 10/8/7</u></a></li>
 </ul></div>
 

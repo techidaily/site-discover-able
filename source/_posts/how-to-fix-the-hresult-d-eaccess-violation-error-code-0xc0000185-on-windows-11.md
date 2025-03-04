@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the HRESULT: D E_ACCESS Violation (Error Code 0xC0000185) on Windows 11"
-date: 2025-02-09T06:37:08.278Z
-updated: 2025-02-12T20:40:45.787Z
+date: 2025-03-03T02:43:28.372Z
+updated: 2025-03-04T03:05:14.464Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919afea3bdd375bc2f3e522289.jpg
@@ -27,10 +27,6 @@ Encounter the "winload.efi is missing or contains errors" error during computer 
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -82,10 +78,6 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best free bootable media creation tool
 
 [**Download Freeware** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -106,10 +98,6 @@ After creating bootable media (just a few minutes), boot your computer from this
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2\. Disable Secure Boot
 
 To address the winload.efi error linked to Safe/Secure Boot, follow these steps to disable Secure Boot in the UEFI configuration:
@@ -124,17 +112,9 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -214,10 +194,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -234,19 +210,7 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -292,10 +256,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -313,20 +273,16 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-practices-for-vlc-video-capturing/"><u>[New] In 2024, Best Practices for VLC Video Capturing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-high-performance-7-cameras-for-cutting-edge-vlogging-tech/"><u>[New] In 2024, High-Performance 7 Cameras For Cutting-Edge Vlogging Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-path-for-instantaneous-srt-to-text-conversions/"><u>2024 Approved Pioneering Path for Instantaneous SRT to Text Conversions</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2020-a-step-by-step-guide-to-correcting-game-crashes/"><u>Football Manager 2020: A Step-by-Step Guide to Correcting Game Crashes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-motorola-moto-g84-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Motorola Moto G84 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-definitive-guide-making-memorable-youtube-music-videos/"><u>In 2024, The Definitive Guide Making Memorable YouTube Music Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-nokia-xr21-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Nokia XR21 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-hurdles-refining-google-news-content-delivery-and-securing-top-tier-mobile-internet-access-on-holidays/"><u>Overcoming ChatGPT Hurdles, Refining Google News Content Delivery & Securing Top-Tier Mobile Internet Access on Holidays</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-26-unmissable-ebook-platforms-from-2018-your-comprehensive-guide/"><u>Top 26 Unmissable eBook Platforms From 2018: Your Comprehensive Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/troubleshooting-difficulties-when-altering-your-email-address/"><u>Troubleshooting Difficulties When Altering Your Email Address</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-collection-where-to-find-and-download-your-favorite-free-audiobooks-online/"><u>Ultimate Collection: Where to Find and Download Your Favorite Free Audiobooks Online</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-guide-breaking-kindles-digital-lock-how-to-liberate-ebooks-and-enjoy-them-everywhere/"><u>Ultimate Guide: Breaking Kindle's Digital Lock - How to Liberate Ebooks & Enjoy Them Everywhere</u></a></li>
-<li><a href="https://discover-able.techidaily.com/understanding-digital-rights-management-an-in-depth-look-at-drm-functionality/"><u>Understanding Digital Rights Management: An In-Depth Look at DRM Functionality</u></a></li>
-<li><a href="https://discover-able.techidaily.com/universal-book-reader-tool-swiftly-convert-pdfs-azws-and-various-formats-to-your-preferred-epub-or-mobi-ebooks/"><u>Universal Book Reader Tool: Swiftly Convert PDFs, AZWs, and Various Formats to Your Preferred EPUB or MOBI eBooks!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/unshackle-yourebooks-master-the-art-of-drm-removal-for-epub-pdf-and-azw-files/"><u>Unshackle YoureBooks: Master the Art of DRM Removal for ePUB, PDF & AZW Files</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-screencastify-recorder-a-complete-step-wise-how-to-guide/"><u>[New] 2024 Approved Screencastify Recorder - A Complete Step-Wise How-To Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-efficiently-upload-and-render-youtube-videos-with-precision/"><u>[New] Efficiently Upload and Render YouTube Videos with Precision</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-premium-tools-for-tag-analysis-across-fb-twitter-and-instagram/"><u>[New] In 2024, Premium Tools for Tag Analysis Across FB, Twitter and Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-quick-guide-to-the-ifunny-meme-application/"><u>[New] In 2024, Quick Guide to the iFunny Meme Application</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-rapid-restoration-snapped-shenanigans/"><u>[Updated] Rapid Restoration Snapped Shenanigans</u></a></li>
+<li><a href="https://discover-able.techidaily.com/10ai2024/"><u>最新ベスト10の無料AIイメージ生成サイト・アワードリスト2024【プロがおすすめ！】</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211352898-9798869368980-colores-espirituales-y-sus-significados-en-colegio-del-espiritu-santo-nueva-edicion-en-espanol/"><u>COLORES ESPIRITUALES y sus significados - En COLEGIO DEL ESPÍRITU SANTO - Nueva Edición en Español | Free Book</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversione-illimitata-di-audiolibri-da-m4b-a-wma-senza-costi-su-audioconvertpro/"><u>Conversione Illimitata Di Audiolibri Da M4B a WMA Senza Costi Su AudioConvertPro</u></a></li>
+<li><a href="https://discover-able.techidaily.com/guide-comparatif-du-meilleur-editeur-lecteur-et-outils-doptimisation-mkv-trouvez-la-solution-parfaite-pour-votre-multimedia/"><u>Guide Comparatif Du Meilleur Éditeur, Lecteur Et Outils D'Optimisation MKV - Trouvez La Solution Parfaite Pour Votre Multimédia</u></a></li>
+<li><a href="https://discover-able.techidaily.com/movavis-four-step-method-to-effective-image-protection-through-watermarking/"><u>Movavi's Four-Step Method to Effective Image Protection Through Watermarking</u></a></li>
+<li><a href="https://discover-able.techidaily.com/online-caf-bestand-omzetting-zonder-kosten-behaalpun-movavis-expertise/"><u>Online CAF-Bestand Omzetting Zonder Kosten - Behaalpun Movavi's Expertise</u></a></li>
 </ul></div>
 

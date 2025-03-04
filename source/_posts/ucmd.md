@@ -1,7 +1,7 @@
 ---
 title: 從U盤中恢復丟失文件：詳盡CMD指令介面使用方法
-date: 2025-02-08T00:13:55.395Z
-updated: 2025-02-12T19:27:17.957Z
+date: 2025-02-28T07:36:50.027Z
+updated: 2025-03-04T04:31:24.348Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91b571c6dca277d98979ab8b4.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
 Encounter the "winload.efi is missing or contains errors" error during computer boot? Discover potential reasons and find solutions to fix the winload.efi problem in Windows 11, 10, 8, 7 here.
@@ -31,10 +27,6 @@ Encounter the "winload.efi is missing or contains errors" error during computer 
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -49,10 +41,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
    5. [Option 5\. Repair EFI Boot Loader](https://tools.techidaily.com/ubackup/products/)
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
@@ -78,17 +66,9 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -97,10 +77,6 @@ The "winload.efi missing" error happens when the OS can't find or access the win
 Furthermore, AOMEI Backupper proves invaluable in tackling various problems such as system failure, system blue screen, system black screen, hard disk corruption, hard disk conversion, and more. Here I will show you how to create a bootable media using this software:
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best free bootable media creation tool
 
@@ -122,14 +98,6 @@ After creating bootable media (just a few minutes), boot your computer from this
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2\. Disable Secure Boot
 
 To address the winload.efi error linked to Safe/Secure Boot, follow these steps to disable Secure Boot in the UEFI configuration:
@@ -143,10 +111,6 @@ Step 2\. Navigate to the Secure Boot option in BIOS, located under tabs like **B
 Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disable**.
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
@@ -260,10 +224,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
@@ -313,24 +273,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ideal-mkv-player-apps-windows-pc/"><u>[New] 2024 Approved Ideal MKV Player Apps Windows PC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-solo-spotlight-crafting-a-chart-topping-podcast-for-2024/"><u>[New] Solo Spotlight Crafting a Chart-Topping Podcast for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-innovative-mount-tech-for-smooth-sensor-motion/"><u>[Updated] 2024 Approved Innovative Mount Tech for Smooth Sensor Motion</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-navigating-your-way-in-graphic-design-careers/"><u>[Updated] Navigating Your Way in Graphic Design Careers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-free-speech-to-text-apps-for-mac-you-need-to-try/"><u>[Updated] Top Free Speech to Text Apps for Mac You Need to Try</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-your-complete-guide-to-starting-a-zoom-conversation-on-an-android-device-for-2024/"><u>[Updated] Your Complete Guide to Starting a Zoom Conversation on an Android Device for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/best-free-utilities-for-system-backuprestoration-on-windows-versions-11-10-8-and-7/"><u>Best Free Utilities for System Backup/Restoration on Windows (Versions 11, 10, 8 & 7)</u></a></li>
-<li><a href="https://discover-able.techidaily.com/can-clonezilla-copy-from-larger-disk-to-smaller-one-comprehensive-guide/"><u>Can Clonezilla Copy From Larger Disk to Smaller One? Comprehensive Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/conocer-tus-opciones-de-compartir-archivos-en-red-desde-windows-11-una-guia-completa/"><u>CONOCER TUS OPCIONES DE COMPARTIR ARCHIVOS EN RED DESDE WINDOWS 11: Una Guía Completa</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effective-defense-against-ransomware-enhancing-security-on-synology-and-qnap-nas-devices/"><u>Effective Defense Against Ransomware: Enhancing Security on Synology & QNAP NAS Devices</u></a></li>
-<li><a href="https://discover-able.techidaily.com/guia-paso-a-paso-rescatando-su-pc-con-una-restauracion-de-sistema-en-windows-11/"><u>Guía Paso a Paso: Rescatando Su PC Con Una Restauración De Sistema en Windows 11</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-tutorial-enhancing-video-stability-with-google-photos-tools/"><u>Step-by-Step Tutorial: Enhancing Video Stability with Google Photos Tools</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transfer-whatsapp-kontakte-von-android-auf-iphone-13-effiziente-methoden/"><u>Transfer WhatsApp Kontakte Von Android Auf iPhone 13 – Effiziente Methoden</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transforming-your-tech-retreat-effortless-steps-for-fitting-a-new-hdd-on-windows-11-systems/"><u>Transforming Your Tech Retreat: Effortless Steps for Fitting a New HDD on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-steps-to-achieve-official-verification-badge-on-instagram/"><u>Ultimate Guide: Steps to Achieve Official Verification Badge on Instagram</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-microsoft-should-refine-its-xbox-rewards-system/"><u>Why Microsoft Should Refine Its Xbox Rewards System</u></a></li>
-<li><a href="https://discover-able.techidaily.com/wie-man-ein-bootfahiges-betriebssystem-fur-windows-mithilfe-eines-image-creators-erstellt-alternative-losungen-aufgezeigt/"><u>Wie Man Ein Bootfähiges Betriebssystem Für Windows Mithilfe Eines Image-Creators Erstellt - Alternative Lösungen Aufgezeigt</u></a></li>
-<li><a href="https://discover-able.techidaily.com/will-switching-to-windows-11-compromise-my-personal-information/"><u>Will Switching to Windows 11 Compromise My Personal Information?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1728468340660-windows/"><u>Windowsサーバーにおけるバックアップディスク容量超え解消法</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-building-endorsements-strategically/"><u>[New] Building Endorsements Strategically</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-explore-visionary-typography-the-ultimate-list-of-9-websites-offering-intricate-3d-letters-for-2024/"><u>[New] Explore Visionary Typography The Ultimate List of 9 Websites Offering Intricate 3D Letters for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-linking-fb-stories/"><u>[New] The Ultimate Guide to Linking FB Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-complete-self-guided-tour-to-host-and-participate-in-google-meet/"><u>[Updated] In 2024, Complete Self-Guided Tour to Host & Participate in Google Meet</u></a></li>
+<li><a href="https://discover-able.techidaily.com/can-boosting-pc-performance-benefit-from-a-registry-cleaner-exploring-options-with-yl-computings-solutions/"><u>Can Boosting PC Performance Benefit From a Registry Cleaner? Exploring Options with YL Computing's Solutions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/diagnosing-pc-memory-faults-on-windows-expert-tips-by-yl-software/"><u>Diagnosing PC Memory Faults on Windows: Expert Tips by YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/essential-advice-on-configuring-your-dj-equipment-a-focus-on-controller-settings-with-pcdj-software/"><u>Essential Advice on Configuring Your DJ Equipment - A Focus on Controller Settings with PCDJ Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/expert-dj-advice-maximize-opportunities-and-increase-trivia-event-bookings-successfully/"><u>Expert DJ Advice: Maximize Opportunities & Increase Trivia Event Bookings Successfully</u></a></li>
+<li><a href="https://discover-able.techidaily.com/exquisite-coffee-moments-full-hd-cappuccino-imagery-for-inspired-backgrounds-with-yl-software-solutions/"><u>Exquisite Coffee Moments: Full HD Cappuccino Imagery for Inspired Backgrounds with YL Software Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016310671-fix-the-silent-problem-in-jabra-g435-wireless-earbuds-comprehensive-fixes-here/"><u>Fix the Silent Problem in Jabra G435 Wireless Earbuds – Comprehensive Fixes Here!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastery-in-missed-tips-on-bypassing-edgenuity-video-instructions-efficiently/"><u>Mastery in Missed Tips on Bypassing Edgenuity Video Instructions Efficiently</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-close-up-techniques-with-kinemaster-software/"><u>Precision Close-Up Techniques with Kinemaster Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/resolving-connection-issues-a-step-by-step-guide-to-repair-your-scanners-link-with-the-pc-expert-tips-from-yl-computing/"><u>Resolving Connection Issues: A Step-by-Step Guide to Repair Your Scanner's Link with the PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/stunning-hd-facial-wallpaper-designs-and-background-graphics-by-yl-computing-your-trusted-source-for-quality-digital-art/"><u>Stunning HD Facial Wallpaper Designs & Background Graphics by YL Computing - Your Trusted Source for Quality Digital Art</u></a></li>
+<li><a href="https://discover-able.techidaily.com/understanding-common-reasons-behind-gpu-malfunctions-insights-from-yl-computing/"><u>Understanding Common Reasons Behind GPU Malfunctions: Insights From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Windows Backups and Restores Using DEX 3 or LYRX Software: In-Depth How-To Video Lesson"
-date: 2025-02-12T06:41:50.326Z
-updated: 2025-02-12T23:12:25.898Z
+date: 2025-02-27T00:03:51.191Z
+updated: 2025-03-04T01:39:16.609Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ In prior [DEX 3](https://tools.techidaily.com/pcdj/products/) and [LYRX](https:/
 App Data is a hidden folder in Windows by default, so locating it isn’t as easy through Windows File Explorer. We’ve added a new “Data Folder” button in DEX 3 and LYRX’s options menu that will directly open up the folder so you can access and backup/restore the contents.
 
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -42,17 +38,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-digital-expansion-social-story-downloader-for-2024/"><u>[New] Digital Expansion Social Story Downloader for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-create-captivating-cover-cinematics/"><u>[New] In 2024, Create Captivating Cover Cinematics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-visual-alchemy-compact-set-of-best-afx-samples-for-free/"><u>[Updated] Visual Alchemy Compact Set of Best AFX Samples for Free</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-five-mac-screen-seize-techniques-char-limit-156/"><u>2024 Approved Top Five Mac Screen Seize Techniques (Char Limit 156)</u></a></li>
-<li><a href="https://discover-able.techidaily.com/windows-server-20032022/"><u>无需复制的Windows Server 2003到2022硬盘克隆技术</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-methods-to-move-video-content-from-your-ios-device-onto-a-windows-or-macos-machine/"><u>Easy Methods to Move Video Content From Your iOS Device Onto a Windows or macOS Machine</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-gt-neo-5-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme GT Neo 5 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-ultimate-asmr-content-guides/"><u>In 2024, Ultimate ASMR Content Guides</u></a></li>
-<li><a href="https://discover-able.techidaily.com/quick-guide-mastering-system-restore-creation-in-windows-11-with-two-proven-techniques/"><u>Quick Guide: Mastering System Restore Creation in Windows 11 with Two Proven Techniques</u></a></li>
-<li><a href="https://discover-able.techidaily.com/risolvi-i-problemi-di-trasferimento-dei-dati-da-samsung-bloccato-al-99-ottienilo-con-l80-il-100-o-lo-zero/"><u>Risolvi I Problemi Di Trasferimento Dei Dati Da Samsung: Bloccato Al 99%? Ottienilo Con L'80%, Il 100% O Lo Zero!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-streaming-platforms-to-watch-a-comprehensive-guide/"><u>Top 8 Streaming Platforms to Watch : A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-troubleshooting-tips-how-to-repair-your-computer-when-it-wont-start-properly/"><u>Ultimate Troubleshooting Tips: How to Repair Your Computer When It Won't Start Properly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-insta-style-the-essential-guide-to-instagram-story-magnification/"><u>[New] 2024 Approved Insta Style The Essential Guide to Instagram Story Magnification</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-effortless-video-capture-expert-tips-for-obs-on-android/"><u>[Updated] 2024 Approved Effortless Video Capture Expert Tips for OBS on Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-initial-steps-to-master-the-art-of-pixel-mapping/"><u>[Updated] In 2024, Initial Steps to Master the Art of Pixel Mapping</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-live-pro-tips-outfitting-with-excellent-webcams/"><u>2024 Approved YouTube Live Pro Tips Outfitting with Excellent Webcams</u></a></li>
+<li><a href="https://discover-able.techidaily.com/iuewoeaykplusamhpluswnlzog6auy5pwi5bcg5pah5lu26yca6lplush5lul5asq572r5lyg6l6t5yiw5yw25luw55s16isrig/"><u>簡易指南: 高效将文件通过以太网传输到其他电脑</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accurate-age-reporting-tips-for-perfecting-your-tiktok-profile/"><u>Accurate Age Reporting Tips for Perfecting Your TikTok Profile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-archivos-de-video-a-formato-wma-sin-costo-alguno-con-conversor-online-gratuito-movavi/"><u>Convertir Archivos De Video a Formato WMA Sin Costo Alguno Con Conversor Online Gratuito - Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/decouvrez-les-etapes-essentielles-de-la-mise-en-place-dun-ordinateur-nouvelle-generation/"><u>Découvrez Les Étapes Essentielles De La Mise en Place D'un Ordinateur Nouvelle Génération</u></a></li>
+<li><a href="https://discover-able.techidaily.com/follow-up-question-2/"><u>Follow Up Question 2</u></a></li>
+<li><a href="https://discover-able.techidaily.com/free-steps-to-move-your-entire-address-book-from-pc-to-iphone/"><u>Free Steps to Move Your Entire Address Book From PC to iPhone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-use-emojis-on-windows-10-and-windows-11-in-2024/"><u>New How to Use Emojis on Windows 10 and Windows 11, In 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/simple-guide-transfer-your-operating-system-and-restore-points-to-a-new-samsung-solid-state-drive/"><u>Simple Guide: Transfer Your Operating System & Restore Points to a New Samsung Solid State Drive</u></a></li>
 </ul></div>
 

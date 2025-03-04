@@ -1,7 +1,7 @@
 ---
 title: 以二种方法将Microsoft Outlook文件夹备份到外置硬盘的详解
-date: 2025-02-08T21:25:17.971Z
-updated: 2025-02-13T03:03:05.721Z
+date: 2025-03-02T19:13:45.222Z
+updated: 2025-03-04T07:27:15.436Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55c94874be07e2903db77be9c.jpg
@@ -24,10 +24,6 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
@@ -42,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -59,10 +51,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -96,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -109,10 +93,6 @@ The how to recover ransomware encrypted files guide is instructed as follows. Yo
 Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit **Backup and Restore (Windows 7)**.
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
@@ -130,25 +110,13 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -187,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -206,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -256,19 +216,21 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-guide-to-the-best-bridal-films-8-from-youtube-plus-vimeo/"><u>[New] 2024 Approved A Guide to the Best Bridal Films (8 From YouTube + Vimeo)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-be-the-game-changer-xbox-one-screen-recording-mastery/"><u>[New] In 2024, Be the Game Changer Xbox One Screen Recording Mastery</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-building-a-broad-spectrum-audience-with-multichannel-strategy/"><u>[New] In 2024, Building a Broad-Spectrum Audience with Multichannel Strategy</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-discover-the-secrets-to-customizing-game-sounds-with-our-step-by-step-process-no-charge/"><u>[Updated] In 2024, Discover the Secrets to Customizing Game Sounds with Our Step-by-Step Process (No Charge!)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975049188-asus-z370-e-motherboard-download-latest-drivers-now/"><u>ASUS Z370-E Motherboard: Download Latest Drivers Now!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/hashkey-groups-exchange-now-enables-fiat-currency-deposits-and-withdrawals-btcusd-and-etheusd-trading-pairs-available-announced-by-coo-weng-xiaoqi-at-launch16/"><u>HashKey Group's Exchange Now Enables Fiat Currency Deposits & Withdrawals: BTC/USD and ETH/eUSD Trading Pairs Available - Announced by COO Weng Xiaoqi at Launch Ceremony</u></a></li>
-<li><a href="https://discover-able.techidaily.com/high-definition-4k-resolution-wallpapers-backgrounds-and-images-ultimate-visual-enhancement-by-yl-computing/"><u>High-Definition 4K Resolution Wallpapers, Backgrounds & Images - Ultimate Visual Enhancement by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XR without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/identifying-cpu-failure-symptoms-insights-by-yl-software-specialists/"><u>Identifying CPU Failure Symptoms: Insights by YL Software Specialists</u></a></li>
-<li><a href="https://discover-able.techidaily.com/salvadoran-leader-nayib-bukele-pushes-forward-with-bitcoin-advocacy-as-he-announces-bid-for-re-election-insights-by-yl-computing/"><u>Salvadoran Leader Nayib Bukele Pushes Forward with Bitcoin Advocacy as He Announces Bid for Re-Election - Insights by YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-how-to-retract-a-repost-on-tiktok-easily/"><u>The Ultimate Fix: How To Retract A Repost On TikTok Easily</u></a></li>
-<li><a href="https://discover-able.techidaily.com/unlock-your-singing-potential-all-inclusive-subscription-to-new-karaoke-cloud-pro-featuring-no-spice-just-sweet-melodies/"><u>Unlock Your Singing Potential: All-Inclusive Subscription to New Karaoke Cloud Pro Featuring 'No Spice, Just Sweet Melodies'</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-erasing-identity-the-most-effective-face-blur-video-editing-software/"><u>Updated In 2024, Erasing Identity The Most Effective Face Blur Video Editing Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208755069-why-wont-my-spacebar-work-in-windows-10-find-out-how-to-resolve-it-today/"><u>Why Won't My Spacebar Work in Windows 10? Find Out How to Resolve It Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-guide-to-tracking-igtv-viewership-metrics/"><u>[New] 2024 Approved The Essential Guide to Tracking IGTV Viewership Metrics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-scrutinizing-splitcam-a-leader-in-video-tech/"><u>[New] In 2024, Scrutinizing SplitCam - A Leader in Video Tech?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-premium-download-assist-ff-friendly-fb-addons/"><u>[New] Premium Download Assist - FF-Friendly FB Addons</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-parody-playground-top-10-laugh-out-loud-songs/"><u>[Updated] 2024 Approved Parody Playground Top 10 Laugh-Out-Loud Songs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-secrets-of-professional-level-iptv-capturing-for-2024/"><u>[Updated] Secrets of Professional-Level IPTV Capturing for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a25-5g-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy A25 5G Lock Screen Password?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snapedit-overview-in-depth-editor-review/"><u>In 2024, SnapEdit Overview – In-Depth Editor Review</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mastering-private-blog-networks-pbn-for-boosted-rankings-insights-and-tips/"><u>Mastering Private Blog Networks (PBN) for Boosted Rankings - Insights & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-wont-boot-up-discover-easy-fixes-for-the-2022-pc-edition/"><u>Outriders Won't Boot Up? Discover Easy Fixes for the 2022 PC Edition</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-2-substitutes-for-the-dedrm-calibre-ebook-drm-removal-tool/"><u>Top 2 Substitutes for the DeDRM Calibre eBook DRM Removal Tool</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-26-unmissable-ebook-platforms-from-2018-your-comprehensive-guide/"><u>Top 26 Unmissable eBook Platforms From 2018: Your Comprehensive Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/troubleshooting-difficulties-when-altering-your-email-address/"><u>Troubleshooting Difficulties When Altering Your Email Address</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-collection-where-to-find-and-download-your-favorite-free-audiobooks-online/"><u>Ultimate Collection: Where to Find and Download Your Favorite Free Audiobooks Online</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-breaking-kindles-digital-lock-how-to-liberate-ebooks-and-enjoy-them-everywhere/"><u>Ultimate Guide: Breaking Kindle's Digital Lock - How to Liberate Ebooks & Enjoy Them Everywhere</u></a></li>
+<li><a href="https://discover-able.techidaily.com/understanding-digital-rights-management-an-in-depth-look-at-drm-functionality/"><u>Understanding Digital Rights Management: An In-Depth Look at DRM Functionality</u></a></li>
+<li><a href="https://discover-able.techidaily.com/universal-book-reader-tool-swiftly-convert-pdfs-azws-and-various-formats-to-your-preferred-epub-or-mobi-ebooks/"><u>Universal Book Reader Tool: Swiftly Convert PDFs, AZWs, and Various Formats to Your Preferred EPUB or MOBI eBooks!</u></a></li>
 </ul></div>
 
